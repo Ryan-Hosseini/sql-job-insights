@@ -81,5 +81,5 @@ All executed queries and results are included in the `/screenshots` folder.
 
 ## 📢 Contact
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ryanhosseini)  
+Feel free to connect with me on [LinkedIn](www.linkedin.com/in/ryan-hosseini-6a1545287)  
 Or message me if you have questions!
